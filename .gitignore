@@ -1,0 +1,14 @@
+# runtime output
+booth-photos/
+*.jpg
+*-raw.jpg
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os junk
+.DS_Store
+Thumbs.db
