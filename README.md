@@ -5,7 +5,7 @@ touchscreen and camera. Tap the screen, strike a pose, and it runs a 3-2-1
 countdown, takes a photo, and prints it on a Fujifilm **Instax Mini Link** over
 Bluetooth. No laptop and no internet needed at runtime.
 
-![flow](docs/flow.png)
+![DIY photo booth wiring schematic](docs/schematic.png)
 
 A full parts list and step-by-step build walkthrough lives in
 [`docs/build-guide.md`](docs/build-guide.md).
